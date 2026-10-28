@@ -14,7 +14,7 @@ I keep users, devices, networks and Microsoft 365 running, and I build home labs
 | Windows & identity | Windows Server 2025, Active Directory, DNS, DHCP, Group Policy, Microsoft 365 admin |
 | Networking | TCP/IP, subnetting, VLANs, DHCP/DNS troubleshooting, firewalls |
 | Automation | PowerShell (bulk AD provisioning, health checks), FFmpeg automation |
-| Security | CompTIA Security+, phishing analysis, MITRE ATT&CK, access control, incident documentation |
+| Security | CompTIA Security+, access control, log review, incident documentation |
 | Support | Hardware & software troubleshooting, CCTV, POS, printers, end-user support |
 
 ---
@@ -24,7 +24,6 @@ I keep users, devices, networks and Microsoft 365 running, and I build home labs
 | Project | What it shows |
 |---|---|
 | [windows-ad-lab](https://github.com/aldren-daimon/windows-ad-lab) | Domain controller with AD DS, DNS and DHCP, client join, OUs and users from PowerShell, Group Policies, file share permissions, 3 troubleshooting tickets |
-| [phishing-investigation](https://github.com/aldren-daimon/phishing-investigation) | SOC-style analysis of a reported phishing email: indicators, MITRE ATT&CK mapping, impact and response |
 
 **In progress:** network home lab (VLANs, pfSense) · Intune & Entra ID · Linux server · help-desk runbooks
 
